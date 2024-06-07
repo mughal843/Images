@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+hr {
+    border-style: none;
+    border-top-style:dotted ;
+    border-width: 5px;
+    width: 100px;
+    color: grey;
+}
+img {
+    width: 250px;
+}
+
+h1 {
+    color: #66bfbf;
+} 
+h2{
+    color: #66bfbf;
+}
